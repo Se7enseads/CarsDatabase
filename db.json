@@ -1,3 +1,12 @@
 {
-  "entries":[]
+  "entries":[
+    {
+      "owner": "Kyle",
+      "model": "BMW",
+      "numberPlate": "KDA-001A",
+      "entryDate": "2023-07-08",
+      "exitDate": "2023-07-09",
+      "id": 1
+    }
+  ]
 }
